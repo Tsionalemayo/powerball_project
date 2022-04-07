@@ -1,5 +1,5 @@
 # from utilities import todayNum,luckyNum,countWhiteBalls,countPowerBalls
-from utilities import *
+from functions import *
 
 class Messages:
 
